@@ -2,7 +2,7 @@
 #wget https://github.com/${GitUser}/
 GitUser="arlanstore"
 #IZIN SCRIPT
-MYIP=$(curl -sS ipv4.icanhazip.com)
+MYIP=$(curl -sS 167.99.64.63)
 echo -e "\e[32mloading...\e[0m"
 clear
 # Valid Script
